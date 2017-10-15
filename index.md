@@ -1,4 +1,5 @@
-# Lamtharn "Hanoi" Hantrakul Google AI Residency 2018 Application
+# Google AI Residency 2018 Application
+# **Lamtharn "Hanoi" Hantrakul**
 
 ## Vision
 
@@ -14,9 +15,20 @@ The following links are curated in the order they were presented in my Cover Let
 
 The winning hack from the team I led was recently featured on the [Google Magenta Blog](https://magenta.tensorflow.org/blog/2017/09/12/outside-hacks/). We documented how we connected the open sourced NSynth model to a real-time data streaming system that enabled a group of phones to control where on the latent space Z in the autoencoder the waveform was being generated from. 
 
-[![Video link](https://github.com/lamtharnhantrakul/auditory_hallucinations_CNN-LSTM/blob/master/assets/youtube.png)](https://www.youtube.com/watch?v=23lJOX4Ioo4&feature=youtu.be)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DIHNMGTdo_w" frameborder="0" allowfullscreen></iframe>
 
-{% youtube https://www.youtube.com/watch?v=DIHNMGTdo_w %}
+## Patent-pending Surrogate Soundboard System
+
+
+## Fidular
+
+_Fidular_ is an award winning cross-cultural modular fiddle system, placing in the top 5% of designs at [A' Design Awards](https://competition.adesignaward.com/design.php?ID=50765) and winning Student Runner Up to the [Core 77 Design Awards](http://designawards.core77.com/Open-Design/64638/Fidular-Modular-Fiddle-System). It enables musicians and luthiers to detach and interchange components such as strings and chambers between fiddles from across the Asia and the Middle East. A print of this design is currently in special exhibition at the [Musical Instruments Museum](https://mim.org/) in Phoenix, AZ. 
+
+![alt text](https://github.com/lamtharnhantrakul/Google-AI-Residency-App/blob/master/assets/Fidular_awards.png "Fidular International Awards")
+
+![alt text](https://github.com/lamtharnhantrakul/Google-AI-Residency-App/blob/master/assets/Fidular.jpg "Fidular Shot")
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B_chlvO4thU" frameborder="0" allowfullscreen></iframe>
 
 ## Welcome to GitHub Pages
 
