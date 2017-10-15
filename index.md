@@ -15,7 +15,9 @@ The following links are curated in the order they were presented in my Cover Let
 
 The winning hack from the team I led was recently featured on the [Google Magenta Blog](https://magenta.tensorflow.org/blog/2017/09/12/outside-hacks/). We documented how we connected the open sourced NSynth model to a real-time data streaming system that enabled a group of phones to control where on the latent space Z in the autoencoder the waveform was being generated from. 
 
+<div style="text-align: center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DIHNMGTdo_w" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Patent-pending Surrogate Soundboard System
 
@@ -31,7 +33,9 @@ _Fidular_ is a patent-pending and award-winning cross-cultural modular fiddle sy
 <img src="assets/Fidular_awards.png" alt="awards" class="inline"/>
 <img src="assets/Fidular.jpg" alt="fidular" class="inline"/>
 
+<div style="text-align: center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B_chlvO4thU" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Additional links
 
