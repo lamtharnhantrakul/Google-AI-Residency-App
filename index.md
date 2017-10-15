@@ -24,7 +24,7 @@ The winning hack from the team I led was recently featured on the [Google Magent
 My BS Thesis in Applied Physics develops a mechanism for transferring acoustic vibrations from a live violin to a remote violin using custom-fabricated transducers and digital inverse filters. A version of my thesis appears as a paper in [ICMC 2017](https://www.dropbox.com/s/0ywxxt5kxx49h3z/ICMC%20Surrogate%20L.%20Hantrakul%202016.pdf?dl=0). 
 
 <img src="assets/violin_systems_diagram.png" alt="systemsDiagram" class="inline"/>
-<img src="assets/violin.png" alt="violin" class="inline"/>
+<img src="assets/violin2.png" alt="violin" class="inline"/>
 
 ## Fidular
 
