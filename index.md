@@ -7,7 +7,7 @@ It is an exciting time to be working at the intersection of Machine Learning, Mu
 
 - Push the envelope of Deep Learning in audio applications, such as developing a WaveNet GAN that feeds the rendered waveform into a realtime wavetable synthesier.
 - Diversify applications of AI to cultures and languages typically not found in neural models, such as those from my home region of Thailand and Southeast Asia. 
-- Cross polinate machine learning with industrial and traditional design processes (e.g CNC milling, 3D printing as well as woodworking, pottery), such as an RL agent that designs a musical instrument alongside a carpenter being by using Finite Element Modelling (FEM) to simulate and iterate on the instrument's tone, or target frequency response, before physical fabrication. 
+- Cross polinate machine learning with industrial and traditional design processes (e.g CNC milling, 3D printing as well as woodworking, pottery), for an example an RL agent that designs a musical instrument alongside a carpenter by using Finite Element Modelling (FEM) to simulate and iterate on the instrument's tone, or target frequency response, before physical fabrication. 
 
 The following links are curated in the order they were presented in my Cover Letter. 
 
@@ -19,24 +19,32 @@ The winning hack from the team I led was recently featured on the [Google Magent
 
 ## Patent-pending Surrogate Soundboard System
 
+My BS Thesis in Applied Physics develops a mechanism for transferring acoustic vibrations from a live violin to a remote violin using custom-fabricated transducers and digital inverse filters. A version of my thesis appears as a paper in [ICMC 2017](https://www.dropbox.com/s/0ywxxt5kxx49h3z/ICMC%20Surrogate%20L.%20Hantrakul%202016.pdf?dl=0). 
+
+<img src="assets/violin.png" alt="violin" class="inline"/>
+<img src="assets/violin_systems_diagram.png" alt="systemsDiagram" class="inline"/>
 
 ## Fidular
 
-_Fidular_ is an award winning cross-cultural modular fiddle system, placing in the top 5% of designs at [A' Design Awards](https://competition.adesignaward.com/design.php?ID=50765) and winning Student Runner Up to the [Core 77 Design Awards](http://designawards.core77.com/Open-Design/64638/Fidular-Modular-Fiddle-System). It enables musicians and luthiers to detach and interchange components such as strings and chambers between fiddles from across the Asia and the Middle East. A print of this design is currently in special exhibition at the [Musical Instruments Museum](https://mim.org/) in Phoenix, AZ. 
+_Fidular_ is a patent-pending and award-winning cross-cultural modular fiddle system, placing in the top 5% of designs at [A' Design Awards](https://competition.adesignaward.com/design.php?ID=50765) and winning Student Runner Up to the [Core 77 Design Awards](http://designawards.core77.com/Open-Design/64638/Fidular-Modular-Fiddle-System). It enables musicians and luthiers to detach and interchange components such as strings and chambers between fiddles from across the Asia and the Middle East. A print of this design is currently in special exhibition at the [Musical Instruments Museum](https://mim.org/) in Phoenix, AZ and accepted to [NIME 2017 conference](https://www.dropbox.com/s/3mfkh3yc6ul5qlm/L%20Hantrakul%20NIME16%20Fidular%20UPLOAD.pdf?dl=0) 
 
-<img src="https://github.com/lamtharnhantrakul/Google-AI-Residency-App/blob/master/assets/Fidular.jpg" alt="hi" class="inline"/>
-
-<img src="assets/Fidular.jpg" alt="hi2" class="inline"/>
+<img src="assets/Fidular_awards.png" alt="awards" class="inline"/>
+<img src="assets/Fidular.jpg" alt="fidular" class="inline"/>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B_chlvO4thU" frameborder="0" allowfullscreen></iframe>
 
-## Welcome to GitHub Pages
+## Additional links
 
-You can use the [editor on GitHub](https://github.com/lamtharnhantrakul/Google-AI-Residency-App/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My [full portfolio](http://cargocollective.com/lh-hantrakul) in Physics, Mechanical Engineering, Electrical Engineering and Industrial Design portfolio.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## MS Thesis in Deep Reinforcement Learning
+
+## SmartEar Deep Learning Auditory Scene Analysis
+
+## Cross-modal 
+
+## CNN's for 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
