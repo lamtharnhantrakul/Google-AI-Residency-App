@@ -2,16 +2,21 @@
 
 ## Vision
 
-It is an exciting time to be working at the intersection of Machine Learning, Music and Audio. In the same way Computer Vision was forever changed in 2012 by the successful (re)introduction of Convolutional Neural Networks, I think audio will forever be changed by WaveNet and NSynth. By sharing my passion from Physics, Digital Signal Processing, Machine Learning to Music and Industrial Design with the Brain research team, I hope to:
+It is an exciting time to be working at the intersection of Machine Learning, Music and Audio. In the same way Computer Vision was forever changed in 2012 by the successful (re)introduction of CNN's, I think audio will forever be changed by WaveNet and NSynth. By sharing my passion from Physics, Digital Signal Processing, Machine Learning to Music and Industrial Design with the Brain research team, I hope to:
 
 - Push the envelope of Deep Learning in audio applications, such as developing a WaveNet GAN that feeds the rendered waveform into a realtime wavetable synthesier.
-- Diversify applications of AI to cultures and languages typically not found in neural models, such as those from my home region of Thailand and Southeast Asia. I see a lot of exciting oppurunities to develop groundwork NLP systems and word embeddings for languages such as Thai or Laos, as well as expanding the dataset and vocabulary of music used in Magenta's open-sourced models to encompass non-western traditions and theories of music. 
+- Diversify applications of AI to cultures and languages typically not found in neural models, such as those from my home region of Thailand and Southeast Asia. 
 - Cross polinate machine learning with industrial and traditional design processes (e.g CNC milling, 3D printing as well as woodworking, pottery), such as an RL agent that designs a musical instrument alongside a carpenter being by using Finite Element Modelling (FEM) to simulate and iterate on the instrument's tone, or target frequency response, before physical fabrication. 
 
 The following links are curated in the order they were presented in my Cover Letter. 
 
-## Extending Magenta NSynth's to a collaborative music making application
+## Extending Magenta's NSynth
 
+The winning hack from the team I led was recently featured on the [Google Magenta Blog](https://magenta.tensorflow.org/blog/2017/09/12/outside-hacks/). We documented how we connected the open sourced NSynth model to a real-time data streaming system that enabled a group of phones to control where on the latent space Z in the autoencoder the waveform was being generated from. 
+
+[![Video link](https://github.com/lamtharnhantrakul/auditory_hallucinations_CNN-LSTM/blob/master/assets/youtube.png)](https://www.youtube.com/watch?v=23lJOX4Ioo4&feature=youtu.be)
+
+{% youtube https://www.youtube.com/watch?v=DIHNMGTdo_w %}
 
 ## Welcome to GitHub Pages
 
