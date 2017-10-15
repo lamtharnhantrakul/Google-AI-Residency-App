@@ -26,7 +26,9 @@ _Fidular_ is an award winning cross-cultural modular fiddle system, placing in t
 
 ![Fidular International Awards]({{ site.url }}/assets/Fidular_awards.png)
 
-<img src="https://github.com/lamtharnhantrakul/Google-AI-Residency-App/blob/master/assets/Fidular.jpg" class="img-responsive" alt=""> </img>
+<div>
+<img src="https://github.com/lamtharnhantrakul/Google-AI-Residency-App/blob/master/assets/Fidular.jpg" class="img-responsive" alt="image" style="width:304px;height:228px;">
+</div>
 
 ![Fidular Shot](https://github.com/lamtharnhantrakul/Google-AI-Residency-App/blob/master/assets/Fidular.jpg)
 
