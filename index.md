@@ -24,11 +24,9 @@ The winning hack from the team I led was recently featured on the [Google Magent
 
 _Fidular_ is an award winning cross-cultural modular fiddle system, placing in the top 5% of designs at [A' Design Awards](https://competition.adesignaward.com/design.php?ID=50765) and winning Student Runner Up to the [Core 77 Design Awards](http://designawards.core77.com/Open-Design/64638/Fidular-Modular-Fiddle-System). It enables musicians and luthiers to detach and interchange components such as strings and chambers between fiddles from across the Asia and the Middle East. A print of this design is currently in special exhibition at the [Musical Instruments Museum](https://mim.org/) in Phoenix, AZ. 
 
-![Fidular International Awards]({{ site.url }}/assets/Fidular_awards.png)
+<img src="https://github.com/lamtharnhantrakul/Google-AI-Residency-App/blob/master/assets/Fidular.jpg" alt="hi" class="inline"/>
 
-<img src="https://github.com/lamtharnhantrakul/Google-AI-Residency-App/blob/master/assets/Fidular.JPG" class="img-responsive" alt="image" style="width:304px;height:228px;">
-
-![Fidular Shot](https://github.com/lamtharnhantrakul/Google-AI-Residency-App/blob/master/assets/Fidular.jpg)
+<img src="assets/Fidular.jpg" alt="hi2" class="inline"/>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B_chlvO4thU" frameborder="0" allowfullscreen></iframe>
 
