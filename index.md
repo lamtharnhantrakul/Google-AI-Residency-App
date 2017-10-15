@@ -33,9 +33,9 @@ _Fidular_ is a patent-pending and award-winning cross-cultural modular fiddle sy
 <img src="assets/Fidular_awards.png" alt="awards" class="inline"/>
 <img src="assets/Fidular.jpg" alt="fidular" class="inline"/>
 
-<div style="text-align: center">
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B_chlvO4thU" frameborder="0" allowfullscreen></iframe>
-</div>
+</center>
 
 ## Additional links
 
