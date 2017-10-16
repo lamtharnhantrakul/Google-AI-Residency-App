@@ -1,6 +1,8 @@
 # Google AI Residency 2018 Application
 # **Lamtharn "Hanoi" Hantrakul**
 
+The following links are curated in the order they were presented in my Cover Letter.
+
 ## Vision
 
 In the same way Computer Vision was forever changed in 2012 by the successful (re)introduction of CNN's, I think audio will forever be changed by WaveNet and NSynth. By sharing my passion from Physics, Digital Signal Processing, Machine Learning to Music and Industrial Design with the Brain research team, I hope to:
@@ -8,8 +10,6 @@ In the same way Computer Vision was forever changed in 2012 by the successful (r
 - Push the envelope of Deep Learning in audio applications, such as developing a WaveNet GAN that feeds the rendered waveform into a realtime wavetable synthesier.
 - Diversify applications of AI to cultures and languages typically not found in neural models, such as those from my home region of Thailand and Southeast Asia. 
 - Cross polinate machine learning with industrial and traditional design processes (e.g CNC milling, 3D printing as well as woodworking, pottery), for an example an RL agent that designs a musical instrument alongside a carpenter by using Finite Element Modelling (FEM) to simulate and iterate on the instrument's tone, or target frequency response, before physical fabrication. 
-
-The following links are curated in the order they were presented in my Cover Letter.
 
 ## Extending Magenta's NSynth
 
