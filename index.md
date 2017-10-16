@@ -81,12 +81,9 @@ Georgia Tech Press Release scheduled for November 2017. We use (xxx) sensors cou
 
 ## Additional links
 
-My [full portfolio](http://cargocollective.com/lh-hantrakul) contains projects in Physics, Mechanical Engineering, Electrical Engineering and Industrial Design.
+My [full portfolio](http://cargocollective.com/lh-hantrakul) contains projects in Physics, Mechanical Engineering, Electrical Engineering and Industrial Design. My [original music](http://cargocollective.com/lh-hantrakul/Selected-Compositions) is also available online.
 
 <img src="assets/FEM.jpg" alt="super-seung" class="inline"/>
-
-My [original music](http://cargocollective.com/lh-hantrakul/Selected-Compositions) is also available online.
-
 <img src="assets/east.jpg" alt="score" class="inline"/>
 
 ## Contact
