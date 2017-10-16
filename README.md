@@ -1,1 +1,1 @@
-Please go to link https://lamtharnhantrakul.github.io/Google-AI-Residency-App/
+Site is rendered through https://lamtharnhantrakul.github.io/Google-AI-Residency-App/
