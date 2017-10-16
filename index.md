@@ -47,8 +47,10 @@ Pat. Pending #1501005900. **Hantrakul, L.** _“A magnetic and modular system fo
 
 The choice of what musical note to play next is a process that combines multiple modalities such as sight, sound, memory and the physical body playing the instrument. ML and DL models for music often treat a sequence of notes pure uni-modal "statistical occurence". My thesis uses a joint representation of a robot's DOF's and musical cognition to inform the robot how it should path plan and coordinate its arms during musical improvisation. I develop models for learned bi-manual and tetra-manual coordination that build on top of DeepMind's Atari-playing DQN (like multi-agent pong with 4 paddles).
 
-<img src="assets/shimon-cropped.gif" alt="shimon-gif" class="inline"/>
+<center>
+<img src="assets/shimon-looped.gif" alt="shimon-gif" class="inline"/>
 <img src="assets/bi_manual_architecture.png" alt="architecture" class="inline"/>
+</center>
 
 Baseline results and documentation available through [this repository](https://github.com/lamtharnhantrakul/shimon_hero_DQN)
 In-progress Thesis implementation using OpenAI's reference RL algorithms available through [this repository](https://github.com/lamtharnhantrakul/ShimonHeroThesis)
@@ -84,6 +86,7 @@ Georgia Tech Press Release scheduled for November 2017. We use (xxx) sensors cou
 My [full portfolio](http://cargocollective.com/lh-hantrakul) contains projects in Physics, Mechanical Engineering, Electrical Engineering and Industrial Design. My [original music](http://cargocollective.com/lh-hantrakul/Selected-Compositions) is also available online.
 
 <img src="assets/FEM.jpg" alt="super-seung" class="inline"/>
+
 <img src="assets/east.jpg" alt="score" class="inline"/>
 
 ## Contact
