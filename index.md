@@ -3,14 +3,6 @@
 
 The following links are curated in the order they were presented in my Cover Letter.
 
-## Vision
-
-In the same way Computer Vision was forever changed in 2012 by the successful (re)introduction of CNN's, I think audio will forever be changed by WaveNet and NSynth. By sharing my passion from Physics, Digital Signal Processing, Machine Learning to Music and Industrial Design with the Brain research team, I hope to:
-
-- Push the envelope of Deep Learning in audio applications, such as developing a WaveNet GAN that feeds the rendered waveform into a realtime wavetable synthesier.
-- Diversify applications of AI to cultures and languages typically not found in neural models, such as those from my home region of Thailand and Southeast Asia. 
-- Cross polinate machine learning with industrial and traditional design processes (e.g CNC milling, 3D printing as well as woodworking, pottery), for an example an RL agent that designs a musical instrument alongside a carpenter by using Finite Element Modelling (FEM) to simulate and iterate on the instrument's tone, or target frequency response, before physical fabrication. 
-
 ## Extending Magenta's NSynth
 
 Recently featured on the [Google Magenta Blog](https://magenta.tensorflow.org/blog/2017/09/12/outside-hacks/), our hack won the Outside Lands music hackathon! I led the winning team and documented how we connected the open sourced NSynth model to a real-time data streaming system that enabled a group of phones to control where on the latent space Z in the autoencoder the waveform was being generated from. 
