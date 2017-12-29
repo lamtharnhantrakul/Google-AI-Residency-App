@@ -11,7 +11,7 @@ The following are curated projects, videos and links grouped roughly into my are
 
 * Audio/Music+ML
 
---> My full [GitHub](https://github.com/lamtharnhantrakul) | My full [Portfolio](http://cargocollective.com/lh-hantrakul)
+--> My full [GitHub](https://github.com/lamtharnhantrakul) || My full [Portfolio](http://cargocollective.com/lh-hantrakul)
 
 ## Physics + Digital Signal Processing
 ### Patent-pending Surrogate Soundboard System
@@ -31,7 +31,7 @@ Pat. Pending #1501004501. **Hantrakul, L.** _“A surrogate soundboard system fo
 ### Skywalker Prosthetic
 I am part of an [inter-departmental team](http://www.news.gatech.edu/2017/12/11/force-strong-amputee-controls-individual-prosthetic-fingers) spanning AI, ultrasound and physiology that develops novel prosthetics leveraing ultrasound and machine learning. Our system delivers first-in-class finger-by-finger control by amputees, enabling high-dexterity tasks like playing piano; an impossible feat using today's sensing on conventional prosthetics. Our work was featured last month (December 2017) by [NVidia](https://news.developer.nvidia.com/ai-helps-amputee-play-piano-for-first-time-since-2012/), [IEEE](https://spectrum.ieee.org/the-human-os/biomedical/devices/skywalker-prosthetic-hand-uses-ultrasound-sensors-for-fingerlevel-control), [CNN](http://www.cnn.com/videos/us/2017/12/13/bionic-hand-luke-skywalker-amputee-play-piano-orig.cnn) and many other news sources. By using ultrasound over traditional electromyography (EMG), we are able to "see" deeper muscle activities in the arm.
 
-I handle ML+DSP on this project.
+I am one of three members that implement ML+DSP on this project.
 
 <img src="assets/skywalker_features.png" alt="skywalkerFeature" width="610" class="inline"/>
 
@@ -40,6 +40,8 @@ Publication pending for February 2018 (university patent delay)
 ### MS Thesis: ultrasound-based finger-by-finger regression using embedded single elements
 
 My MS Thesis develops the second iteration of the project outlined above. I use Deep Learning directly on raw ultrasound pulses to output continuous regressions. This approach skips the traditional imaging step and enables the system to be miniturized substantially by custom designing the ultrasound transducer array. My thesis is advised by Gil Weinberg (Georgia Tech), Byron Boots (Google Brain) and Mason Bretan (Futurewei Inc.)
+
+
 
 Due to university patents/invention disclosures, I cannot share my GitHub repository nor an image of this setup until my Thesis is published in May 2018.
 
