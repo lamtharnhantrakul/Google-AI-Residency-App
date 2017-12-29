@@ -96,7 +96,7 @@ In a conversation with Doug Eck from the Google Magenta team, we discussed how h
 
 [GitHub](https://github.com/lamtharnhantrakul/GestureRNN-ML4Lightpad) repository with full documentation and code
 
-<img src="assets/gesturernn_splash.gif" alt="systemsDiagram" width="610" class="inline"/>
+<img src="assets/gesturernn_splash.png" alt="systemsDiagram" width="610" class="inline"/>
 <left>
 <iframe width="610" height="343" src="https://www.youtube.com/embed/VgoVGpllaSY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </left>
