@@ -11,6 +11,9 @@ The following are curated projects, videos and links grouped roughly into my are
 
 * Audio/Music+ML
 
+My [GitHub](https://github.com/lamtharnhantrakul)
+My [portfolio](http://cargocollective.com/lh-hantrakul)
+
 ## Physics + Digital Signal Processing
 ### Patent-pending Surrogate Soundboard System
 
