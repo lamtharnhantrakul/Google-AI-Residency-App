@@ -7,17 +7,18 @@ The following are curated projects, videos and links grouped roughly into my are
 
 * Industrial Design/Mechanical Engineering
 
-* DL/ML/AI 
+* DL/ML/AI
 
 * Audio/Music+ML
 
-My [GitHub](https://github.com/lamtharnhantrakul)
-My [portfolio](http://cargocollective.com/lh-hantrakul)
+My full [GitHub](https://github.com/lamtharnhantrakul)
+
+My full [Portfolio](http://cargocollective.com/lh-hantrakul)
 
 ## Physics + Digital Signal Processing
 ### Patent-pending Surrogate Soundboard System
 
-My BS Thesis in Applied Physics from Yale University develops a patent-pending mechanism for transferring acoustic vibrations from a live violin to a remote violin using custom-fabricated transducers and digital inverse filters. A version of my thesis appears as a paper in [ICMC 2016]. 
+My BS Thesis in Applied Physics from Yale University develops a patent-pending mechanism for transferring acoustic vibrations from a live violin to a remote violin using custom-fabricated transducers and digital inverse filters. A version of my thesis appears as a paper in [ICMC 2016].
 
 [Full documentation](http://cargocollective.com/lh-hantrakul/Surrogate-Soundboards-Mark-II)
 
@@ -30,7 +31,7 @@ Pat. Pending #1501004501. **Hantrakul, L.** _“A surrogate soundboard system fo
 ## Deep Learning and Machine Learning
 
 ### Skywalker Prosthetic
-I am part of an [inter-departmental team](http://www.news.gatech.edu/2017/12/11/force-strong-amputee-controls-individual-prosthetic-fingers) spanning AI, ultrasound and physiology that develops novel prosthetics leveraing ultrasound and machine learning. Our system delivers first-in-class finger-by-finger control by amputees, enabling high-dexterity tasks like playing piano; an impossible feat using today's sensing on conventional prosthetics. Our work was featured last month (December 2017) by [NVidia](https://news.developer.nvidia.com/ai-helps-amputee-play-piano-for-first-time-since-2012/), [IEEE](https://spectrum.ieee.org/the-human-os/biomedical/devices/skywalker-prosthetic-hand-uses-ultrasound-sensors-for-fingerlevel-control), [CNN](http://www.cnn.com/videos/us/2017/12/13/bionic-hand-luke-skywalker-amputee-play-piano-orig.cnn) and many other news sources. By using ultrasound over traditional electro-myography (EMG), we are able to "see" deeper muscle activities in the arm. 
+I am part of an [inter-departmental team](http://www.news.gatech.edu/2017/12/11/force-strong-amputee-controls-individual-prosthetic-fingers) spanning AI, ultrasound and physiology that develops novel prosthetics leveraing ultrasound and machine learning. Our system delivers first-in-class finger-by-finger control by amputees, enabling high-dexterity tasks like playing piano; an impossible feat using today's sensing on conventional prosthetics. Our work was featured last month (December 2017) by [NVidia](https://news.developer.nvidia.com/ai-helps-amputee-play-piano-for-first-time-since-2012/), [IEEE](https://spectrum.ieee.org/the-human-os/biomedical/devices/skywalker-prosthetic-hand-uses-ultrasound-sensors-for-fingerlevel-control), [CNN](http://www.cnn.com/videos/us/2017/12/13/bionic-hand-luke-skywalker-amputee-play-piano-orig.cnn) and many other news sources. By using ultrasound over traditional electro-myography (EMG), we are able to "see" deeper muscle activities in the arm.
 
 I handle ML+DSP on this project.
 
@@ -42,11 +43,11 @@ Publication pending for February 2018 (university patent delay)
 
 My MS Thesis develops the second iteration of the project outlined above. I use Deep Learning directly on raw ultrasound pulses to output continuous regressions. This approach skips the traditional imaging step and enables the system to be miniturized substantially by custom designing the ultrasound transducer array. My thesis is advised by Gil Weinberg (Georgia Tech), Byron Boots (Google Brain) and Mason Bretan (Futurewei Inc.)
 
-Due to university patents/invention disclosures, I cannot share my GitHub repository nor an image of this setup until my Thesis is published in May 2018. 
+Due to university patents/invention disclosures, I cannot share my GitHub repository nor an image of this setup until my Thesis is published in May 2018.
 
 ### SmartEar Deep Learning Auditory Scene Analysis
 
-[SmartEar](https://www.smartear.ai/) is a voice-centric, AI-enabled and patended in-the-ear-canal (not your regular out-of-ear-canal earbuds!) earpiece. As a remote part-time audio deep learning engineer, I develop deep learning-based Auditory Scene Analysis (ASA) that enable SmartEar to identify its acoustic environment (e.g indoor vs outdoor, loud environment vs. quiet environment) using CNN's on beamformed audio from the earpiece. 
+[SmartEar](https://www.smartear.ai/) is a voice-centric, AI-enabled and patended in-the-ear-canal (not your regular out-of-ear-canal earbuds!) earpiece. As a remote part-time audio deep learning engineer, I develop deep learning-based Auditory Scene Analysis (ASA) that enable SmartEar to identify its acoustic environment (e.g indoor vs outdoor, loud environment vs. quiet environment) using CNN's on beamformed audio from the earpiece.
 
 <center>
 <iframe width="580" height="315" src="https://www.youtube.com/embed/4dH0JE-D420" frameborder="0" allowfullscreen></iframe>
@@ -57,7 +58,7 @@ This work is a joint industry-academia research project between SmartEar and the
 ## Industrial Design/Mechanical Engineering
 ### Fidular
 
-_Fidular_ is a patent-pending and award-winning cross-cultural modular fiddle system, placing in the top 5% of designs at [A' Design Awards](https://competition.adesignaward.com/design.php?ID=50765) and winning Student Runner Up to the [Core 77 Design Awards](http://designawards.core77.com/Open-Design/64638/Fidular-Modular-Fiddle-System). It enables musicians and luthiers to detach and interchange components such as strings and chambers between fiddles from across the Asia and the Middle East. A print of this design is currently in special exhibition at the [Musical Instruments Museum](https://mim.org/) in Phoenix, AZ and accepted to [NIME 2017 conference](https://www.dropbox.com/s/3mfkh3yc6ul5qlm/L%20Hantrakul%20NIME16%20Fidular%20UPLOAD.pdf?dl=0). Full documentation available [here](http://cargocollective.com/lh-hantrakul/fidular). 
+_Fidular_ is a patent-pending and award-winning cross-cultural modular fiddle system, placing in the top 5% of designs at [A' Design Awards](https://competition.adesignaward.com/design.php?ID=50765) and winning Student Runner Up to the [Core 77 Design Awards](http://designawards.core77.com/Open-Design/64638/Fidular-Modular-Fiddle-System). It enables musicians and luthiers to detach and interchange components such as strings and chambers between fiddles from across the Asia and the Middle East. A print of this design is currently in special exhibition at the [Musical Instruments Museum](https://mim.org/) in Phoenix, AZ and accepted to [NIME 2017 conference](https://www.dropbox.com/s/3mfkh3yc6ul5qlm/L%20Hantrakul%20NIME16%20Fidular%20UPLOAD.pdf?dl=0). Full documentation available [here](http://cargocollective.com/lh-hantrakul/fidular).
 
 <center>
 <iframe width="580" height="315" src="https://www.youtube.com/embed/B_chlvO4thU" frameborder="0" allowfullscreen></iframe>
@@ -72,7 +73,7 @@ Pat. Pending #1501005900. **Hantrakul, L.** _“A magnetic and modular system fo
 ## Audio/Music & ML
 ### Extending Magenta's NSynth
 
-Recently featured on the [Google Magenta Blog](https://magenta.tensorflow.org/blog/2017/09/12/outside-hacks/), our hack won the Outside Lands music hackathon! I led the winning team and documented how we connected the open sourced NSynth model to a real-time data streaming system that enabled a group of phones to control where on the latent space Z in the autoencoder the waveform was being generated from. 
+Recently featured on the [Google Magenta Blog](https://magenta.tensorflow.org/blog/2017/09/12/outside-hacks/), our hack won the Outside Lands music hackathon! I led the winning team and documented how we connected the open sourced NSynth model to a real-time data streaming system that enabled a group of phones to control where on the latent space Z in the autoencoder the waveform was being generated from.
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DIHNMGTdo_w" frameborder="0" allowfullscreen></iframe>
