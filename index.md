@@ -79,6 +79,8 @@ This work is a joint industry-academia research project between SmartEar and the
 
 Recently featured on the [Google Magenta Blog](https://magenta.tensorflow.org/blog/2017/09/12/outside-hacks/), our hack won the Outside Lands music hackathon! I led the winning team and documented how we connected the open sourced NSynth model to a real-time data streaming system that enabled a group of phones to control where on the latent space Z in the autoencoder the waveform was being generated from.
 
+[GitHub](https://github.com/lamtharnhantrakul/mSynth) repository
+
 <left>
 <iframe width="610" height="343" src="https://www.youtube.com/embed/DIHNMGTdo_w" frameborder="0" allowfullscreen></iframe>
 </left>
@@ -87,24 +89,26 @@ Recently featured on the [Google Magenta Blog](https://magenta.tensorflow.org/bl
 
 The choice of what musical note to play next is a process that combines multiple modalities such as sight, sound, memory and the physical body playing the instrument. ML and DL models for music often treat a sequence of notes pure uni-modal "statistical occurence". This project works towards a joint representation between a robot's DOF's and musical cognition to inform the robot how it should path plan and coordinate its arms during musical improvisation. I develop models for learned bi-manual and tetra-manual coordination that build on top of DeepMind's Atari-playing DQN (like multi-agent pong with 4 paddles).
 
-<img src="assets/shimon-looped.gif" alt="systemsDiagram" width="610" class="inline"/>
-
-GitHub](https://github.com/lamtharnhantrakul/shimon_hero_DQN) repository for Baseline results and full documentation
+[GitHub](https://github.com/lamtharnhantrakul/shimon_hero_DQN) repository for Baseline results and full documentation
 [GitHub](https://github.com/lamtharnhantrakul/ShimonHeroThesis) repository for in-progress implementation using OpenAI's reference RL algorithms available through
+
+<img src="assets/shimon-looped.gif" alt="systemsDiagram" width="610" class="inline"/>
 
 ### GestureRNN
 
 In a conversation with Doug Eck from the Google Magenta team, we discussed how humans create art in "low dimensional" spaces e.g. the movements of a brushstroke vs "high dimensional" spaces e.g. the final RGB values of every pixel. Inspired by Magenta's _SketchRNN_, I developed a system where an RNN draws musical gestures on the surface of a XY pad learnt from an expert musician. The RNN doesn't generate the waveforms directly, but learns how to navigate the sonic space on the XY pad to generate music.
 
-<img src="assets/gesturernn_splash.png" alt="systemsDiagram" width="610" class="inline"/>
-
+<left>
 <iframe width="610" height="343" src="https://www.youtube.com/embed/VgoVGpllaSY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</left>
 
 [GitHub](https://github.com/lamtharnhantrakul/GestureRNN-ML4Lightpad) repository with full documentation and code
 
 ### Klustr
 
 High dimensional data such as audio is often organized using simple high level descriptors like `vocal_shout_1.wav` or `funky_bass_1.wav`. However, these labels do not capture nuances between sounds? How similar are `vocal_shout_1.wav` and `vocal_shout_5.wav`? We develop a pipeline that selects the best features (like MFCC's, STFT and WaveNet) and dimensionality reduction techniques (PCA, TSNE, UMAP) to create a 2D map of similar sounds. We intend for this tool to be used by content creators in entertainment, audio production and music production to navigate large sample banks.
+
+[GitHub](https://github.com/lamtharnhantrakul/klustr) repository with full documentation and code
 
 <img src="assets/klustr_splash.png" alt="systemsDiagram" width="610" class="inline"/>
 
