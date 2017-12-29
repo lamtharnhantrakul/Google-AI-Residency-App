@@ -35,7 +35,7 @@ _Fidular_ is a patent-pending and award-winning cross-cultural modular fiddle sy
 
 [Full documentation](http://cargocollective.com/lh-hantrakul/fidular) available.
 
-<img src="assets/Fidular_splash.png" alt="awards" width="580" class="inline"/>
+<img src="assets/fidular_splash.png" alt="awards" width="610" class="inline"/>
 
 <left>
 <iframe width="610" height="343" src="https://www.youtube.com/embed/B_chlvO4thU" frameborder="0" allowfullscreen></iframe>
@@ -87,7 +87,7 @@ Recently featured on the [Google Magenta Blog](https://magenta.tensorflow.org/bl
 
 The choice of what musical note to play next is a process that combines multiple modalities such as sight, sound, memory and the physical body playing the instrument. ML and DL models for music often treat a sequence of notes pure uni-modal "statistical occurence". This project works towards a joint representation between a robot's DOF's and musical cognition to inform the robot how it should path plan and coordinate its arms during musical improvisation. I develop models for learned bi-manual and tetra-manual coordination that build on top of DeepMind's Atari-playing DQN (like multi-agent pong with 4 paddles).
 
-<img src="assets/shimon-looped.png" alt="systemsDiagram" width="610" class="inline"/>
+<img src="assets/shimon-looped.gif" alt="systemsDiagram" width="610" class="inline"/>
 
 GitHub](https://github.com/lamtharnhantrakul/shimon_hero_DQN) repository for Baseline results and full documentation
 [GitHub](https://github.com/lamtharnhantrakul/ShimonHeroThesis) repository for in-progress implementation using OpenAI's reference RL algorithms available through
