@@ -3,20 +3,22 @@
 
 The following are curated projects, videos and links grouped roughly into my areas of expertise:
 
-* Physics+Digital Signal Processing
+* Physics/Electrical Engineering
+
+* Industrial Design/Mechanical Engineering
 
 * DL/ML/AI 
-
-* Design
 
 * Audio/Music+ML
 
 ## Physics + Digital Signal Processing
 ### Patent-pending Surrogate Soundboard System
 
-My BS Thesis in Applied Physics from Yale University develops a patent-pending mechanism for transferring acoustic vibrations from a live violin to a remote violin using custom-fabricated transducers and digital inverse filters. A version of my thesis appears as a paper in [ICMC 2016]. Full documentation available [here](http://cargocollective.com/lh-hantrakul/Surrogate-Soundboards-Mark-II)
+My BS Thesis in Applied Physics from Yale University develops a patent-pending mechanism for transferring acoustic vibrations from a live violin to a remote violin using custom-fabricated transducers and digital inverse filters. A version of my thesis appears as a paper in [ICMC 2016]. 
 
-<img src="assets/violin_systems_diagram.png" alt="systemsDiagram" class="inline"/>
+[Full documentation](http://cargocollective.com/lh-hantrakul/Surrogate-Soundboards-Mark-II)
+
+<img src="assets/violin_splash.png" alt="systemsDiagram" width="580" class="inline"/>
 
 Pat. Pending #1501004501. **Hantrakul, L.** _“A surrogate soundboard system for the violin”_ Filed 10/8/2015. Department of Intellectual Property, Thailand.
 
@@ -25,9 +27,11 @@ Pat. Pending #1501004501. **Hantrakul, L.** _“A surrogate soundboard system fo
 ## Deep Learning and Machine Learning
 
 ### Skywalker Prosthetic
-I am part of an inter-departmental team spanning AI, ultrasound and physiology that develops novel prosthetics leveraing ultrasound and machine learning. Our system delivers first-in-class finger-by-finger control by amputees, enabling high-dexterity tasks like playing piano; an impossible feat using today's sensing on conventional prosthetics. Our work was featured last month (December 2017) by NVidia, IEEE, CNN and many other news sources. By using ultrasound over traditional electro-myography (EMG), we are able to "see" deeper muscle activities. 
+I am part of an [inter-departmental team](http://www.news.gatech.edu/2017/12/11/force-strong-amputee-controls-individual-prosthetic-fingers) spanning AI, ultrasound and physiology that develops novel prosthetics leveraing ultrasound and machine learning. Our system delivers first-in-class finger-by-finger control by amputees, enabling high-dexterity tasks like playing piano; an impossible feat using today's sensing on conventional prosthetics. Our work was featured last month (December 2017) by [NVidia](https://news.developer.nvidia.com/ai-helps-amputee-play-piano-for-first-time-since-2012/), [IEEE](https://spectrum.ieee.org/the-human-os/biomedical/devices/skywalker-prosthetic-hand-uses-ultrasound-sensors-for-fingerlevel-control), [CNN](http://www.cnn.com/videos/us/2017/12/13/bionic-hand-luke-skywalker-amputee-play-piano-orig.cnn) and many other news sources. By using ultrasound over traditional electro-myography (EMG), we are able to "see" deeper muscle activities in the arm. 
 
-<img src="assets/skywalker_features.png" alt="skywalkerFeature" class="inline"/>
+I handle ML+DSP on this project.
+
+<img src="assets/skywalker_features.png" alt="skywalkerFeature" width="580" class="inline"/>
 
 Publication pending for February 2018 (university patent delay)
 
@@ -39,25 +43,24 @@ Due to university patents/invention disclosures, I cannot share my GitHub reposi
 
 ### SmartEar Deep Learning Auditory Scene Analysis
 
-[SmartEar](https://www.smartear.ai/) is a voice-centric, AI-enabled and patended in-the-ear-canal (not your regular out-of-ear-canal earbuds!) earpiece. As a remote part-time audio deep learning engineer, I develop deep learning-based Auditory Scene Analysis (ASA) that enable SmartEar to identify its acoustic environment (e.g indoor vs outdoor, restaurant vs office) using beamformed audio from the earpiece. 
+[SmartEar](https://www.smartear.ai/) is a voice-centric, AI-enabled and patended in-the-ear-canal (not your regular out-of-ear-canal earbuds!) earpiece. As a remote part-time audio deep learning engineer, I develop deep learning-based Auditory Scene Analysis (ASA) that enable SmartEar to identify its acoustic environment (e.g indoor vs outdoor, loud environment vs. quiet environment) using CNN's on beamformed audio from the earpiece. 
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4dH0JE-D420" frameborder="0" allowfullscreen></iframe>
+<iframe width="580" height="315" src="https://www.youtube.com/embed/4dH0JE-D420" frameborder="0" allowfullscreen></iframe>
 </center>
 
-This work is a joint industry-academia research project between SmartEar and the Robotic Musicianship Group at Georgia Tech.
+This work is a joint industry-academia research project between SmartEar and the Robotic Musicianship Group (my affiliation) at the Georgia Institute of Technology.
 
-## Design
+## Industrial Design/Mechanical Engineering
 ### Fidular
 
 _Fidular_ is a patent-pending and award-winning cross-cultural modular fiddle system, placing in the top 5% of designs at [A' Design Awards](https://competition.adesignaward.com/design.php?ID=50765) and winning Student Runner Up to the [Core 77 Design Awards](http://designawards.core77.com/Open-Design/64638/Fidular-Modular-Fiddle-System). It enables musicians and luthiers to detach and interchange components such as strings and chambers between fiddles from across the Asia and the Middle East. A print of this design is currently in special exhibition at the [Musical Instruments Museum](https://mim.org/) in Phoenix, AZ and accepted to [NIME 2017 conference](https://www.dropbox.com/s/3mfkh3yc6ul5qlm/L%20Hantrakul%20NIME16%20Fidular%20UPLOAD.pdf?dl=0). Full documentation available [here](http://cargocollective.com/lh-hantrakul/fidular). 
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B_chlvO4thU" frameborder="0" allowfullscreen></iframe>
+<iframe width="580" height="315" src="https://www.youtube.com/embed/B_chlvO4thU" frameborder="0" allowfullscreen></iframe>
 </center>
 
-<img src="assets/Fidular_awards.png" alt="awards" class="inline"/>
-<img src="assets/Fidular.jpg" alt="fidular" class="inline"/>
+<img src="assets/Fidular_splash.png" alt="awards" width="580" class="inline"/>
 
 Pat. Pending #1601000261. **Hantrakul, L.** _“A shape-shifting waveguide and interchangeable front-panel system for Asian and Middle Eastern Fiddles”_ Filed 20/1/2016 Department of Intellectual Property, Bangkok, Thailand.
 
@@ -108,8 +111,6 @@ Full documentation and code available through this [repository](https://github.c
 ### Additional links
 
 My [full portfolio](http://cargocollective.com/lh-hantrakul) contains projects in Physics, Mechanical Engineering, Electrical Engineering and Industrial Design. My [original music](http://cargocollective.com/lh-hantrakul/Selected-Compositions) is also available online.
-
-<img src="assets/FEM.jpg" alt="super-seung" class="inline"/>
 
 ## Contact
 
