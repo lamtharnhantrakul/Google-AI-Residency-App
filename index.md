@@ -3,11 +3,11 @@
 
 The following are curated projects, videos and links grouped roughly into my areas of expertise:
 
-* Physics/Electrical Engineering
+* Physics + Electrical Engineering
 
-* Industrial Design/Mechanical Engineering
+* Industrial Design + Mechanical Engineering
 
-* DL/ML/AI
+* Deep Learning + Machine Learning
 
 * Audio/Music+ML
 
@@ -18,7 +18,7 @@ The following are curated projects, videos and links grouped roughly into my are
 ## Physics + Digital Signal Processing
 ### Patent-pending Surrogate Soundboard System
 
-My BS Thesis in Applied Physics from Yale University develops a patent-pending mechanism for transferring acoustic vibrations from a live violin to a remote violin using custom-fabricated transducers and digital inverse filters. A version of my thesis appears as a paper in [ICMC 2016].
+My BS Thesis in Applied Physics from Yale University develops a patent-pending mechanism for transferring acoustic vibrations from a live violin to a remote violin using custom-fabricated transducers and digital inverse filters. This enables a "live" violin to be stream in real-time to a "surrogate" violin located in another concert hall through standard Web Audio protocols. 
 
 [Full documentation](http://cargocollective.com/lh-hantrakul/Surrogate-Soundboards-Mark-II) available
 
@@ -28,7 +28,7 @@ Pat. Pending #1501004501. **Hantrakul, L.** _“A surrogate soundboard system fo
 
 **Hantrakul, L.** , Kuc, R. Wilen, L. _[“Surrogate Soundboards for novel transmission of violin audio”](https://www.dropbox.com/s/0ywxxt5kxx49h3z/ICMC%20Surrogate%20L.%20Hantrakul%202016.pdf?dl=0)_. Proceedings of the International Computer Music Conference (ICMC 2016) at HKU University of the Arts in Utrecht, The Netherlands.
 
-## Industrial Design/Mechanical Engineering
+## Industrial Design + Mechanical Engineering
 ### Fidular
 
 _Fidular_ is a patent-pending and award-winning cross-cultural modular fiddle system, placing in the top 5% of designs at [A' Design Awards](https://competition.adesignaward.com/design.php?ID=50765) and winning Student Runner Up to the [Core 77 Design Awards](http://designawards.core77.com/Open-Design/64638/Fidular-Modular-Fiddle-System). It enables musicians and luthiers to detach and interchange components such as strings and chambers between fiddles from across the Asia and the Middle East. A print of this design is currently in special exhibition at the [Musical Instruments Museum](https://mim.org/) in Phoenix, AZ and accepted to [NIME 2017 conference](https://www.dropbox.com/s/3mfkh3yc6ul5qlm/L%20Hantrakul%20NIME16%20Fidular%20UPLOAD.pdf?dl=0).
@@ -45,7 +45,7 @@ Pat. Pending #1601000261. **Hantrakul, L.** _“A shape-shifting waveguide and i
 
 Pat. Pending #1501005900. **Hantrakul, L.** _“A magnetic and modular system for Asian fiddles”_ Filed 29/9/2015. Department of Intellectual Property, Thailand.
 
-## Deep Learning and Machine Learning
+## Deep Learning + Machine Learning
 ### Skywalker Prosthetic
 I am part of an [inter-departmental team](http://www.news.gatech.edu/2017/12/11/force-strong-amputee-controls-individual-prosthetic-fingers) spanning AI, ultrasound and physiology that develops novel prosthetics leveraging ultrasound and machine learning. Our system delivers first-in-class finger-by-finger control by amputees, enabling high-dexterity tasks like playing piano; an impossible feat using today's sensing on conventional prosthetics. Our work was featured last month (December 2017) by [NVidia](https://news.developer.nvidia.com/ai-helps-amputee-play-piano-for-first-time-since-2012/), [IEEE](https://spectrum.ieee.org/the-human-os/biomedical/devices/skywalker-prosthetic-hand-uses-ultrasound-sensors-for-fingerlevel-control), [CNN](http://www.cnn.com/videos/us/2017/12/13/bionic-hand-luke-skywalker-amputee-play-piano-orig.cnn) and many other news sources. By using ultrasound over traditional electromyography (EMG), we are able to "see" deeper muscle activities in the arm.
 
@@ -72,7 +72,7 @@ Due to university patents/invention disclosures, I cannot share my GitHub reposi
 
 This work is a joint industry-academia research project between SmartEar and the Robotic Musicianship Group (my affiliation) at the Georgia Institute of Technology.
 
-## Audio/Music & ML
+## Audio & Music + ML
 ### Extending Magenta's NSynth
 Recently featured on the [Google Magenta Blog](https://magenta.tensorflow.org/blog/2017/09/12/outside-hacks/), our hack won the Outside Lands music hackathon! I led the winning team and documented how we connected the open sourced NSynth model to a real-time data streaming system that enabled a group of phones to control where on the latent space Z in the autoencoder the waveform was being generated from.
 
@@ -87,18 +87,19 @@ The choice of what musical note to play next is a process that combines multiple
 
 [GitHub](https://github.com/lamtharnhantrakul/shimon_hero_DQN) repository for Baseline results and full documentation
 
-[GitHub](https://github.com/lamtharnhantrakul/ShimonHeroThesis) repository for in-progress implementation using OpenAI's reference RL algorithms available through
+[GitHub](https://github.com/lamtharnhantrakul/ShimonHeroThesis) repository for in-progress implementation using OpenAI's reference RL algorithms
 
 <img src="assets/shimon-looped.gif" alt="systemsDiagram" width="610" class="inline"/>
 
 ### GestureRNN
 In a conversation with Doug Eck from the Google Magenta team, we discussed how humans create art in "low dimensional" spaces e.g. the movements of a brushstroke vs "high dimensional" spaces e.g. the final RGB values of every pixel. Inspired by Magenta's _SketchRNN_, I developed a system where an RNN draws musical gestures on the surface of a XY pad learnt from an expert musician. The RNN doesn't generate the waveforms directly, but learns how to navigate the sonic space on the XY pad to generate music.
 
+[GitHub](https://github.com/lamtharnhantrakul/GestureRNN-ML4Lightpad) repository with full documentation and code
+
+<img src="assets/gesturernn_splash.gif" alt="systemsDiagram" width="610" class="inline"/>
 <left>
 <iframe width="610" height="343" src="https://www.youtube.com/embed/VgoVGpllaSY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </left>
-
-[GitHub](https://github.com/lamtharnhantrakul/GestureRNN-ML4Lightpad) repository with full documentation and code
 
 ### Klustr: visualization of large audio datasets
 High dimensional data such as audio is often organized using simple high level descriptors like `vocal_shout_1.wav` or `funky_bass_1.wav`. However, these labels do not capture nuances between sounds? How similar are `vocal_shout_1.wav` and `vocal_shout_5.wav`? We develop a pipeline that selects the best features (like MFCC's, STFT and WaveNet) and dimensionality reduction techniques (PCA, TSNE, UMAP) to create a 2D map of similar sounds. We intend for this tool to be used by content creators in entertainment, audio production and music production to navigate large sample banks.
