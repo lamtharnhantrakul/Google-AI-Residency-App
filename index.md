@@ -11,9 +11,7 @@ The following are curated projects, videos and links grouped roughly into my are
 
 * Audio/Music+ML
 
-My full [GitHub](https://github.com/lamtharnhantrakul)
-
-My full [Portfolio](http://cargocollective.com/lh-hantrakul)
+--> My full [GitHub](https://github.com/lamtharnhantrakul) | My full [Portfolio](http://cargocollective.com/lh-hantrakul)
 
 ## Physics + Digital Signal Processing
 ### Patent-pending Surrogate Soundboard System
@@ -22,7 +20,7 @@ My BS Thesis in Applied Physics from Yale University develops a patent-pending m
 
 [Full documentation](http://cargocollective.com/lh-hantrakul/Surrogate-Soundboards-Mark-II) available
 
-<img src="assets/violin_splash.png" alt="systemsDiagram" width="580" class="inline"/>
+<img src="assets/violin_splash.png" alt="systemsDiagram" width="610" class="inline"/>
 
 Pat. Pending #1501004501. **Hantrakul, L.** _“A surrogate soundboard system for the violin”_ Filed 10/8/2015. Department of Intellectual Property, Thailand.
 
