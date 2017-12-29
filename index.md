@@ -101,7 +101,7 @@ In a conversation with Doug Eck from the Google Magenta team, we discussed how h
 <iframe width="610" height="343" src="https://www.youtube.com/embed/VgoVGpllaSY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </left>
 
-### Klustr: visualization of large audio datasets
+### Klustr - visualization of large audio datasets
 High dimensional data such as audio is often organized using simple high level descriptors like `vocal_shout_1.wav` or `funky_bass_1.wav`. However, these labels do not capture nuances between sounds? How similar are `vocal_shout_1.wav` and `vocal_shout_5.wav`? We develop a pipeline that selects the best features (like MFCC's, STFT and WaveNet) and dimensionality reduction techniques (PCA, TSNE, UMAP) to create a 2D map of similar sounds. We intend for this tool to be used by content creators in entertainment, audio production and music production to navigate large sample banks.
 
 [GitHub](https://github.com/lamtharnhantrakul/klustr) repository with full documentation and code
