@@ -9,7 +9,7 @@ The following are curated projects, videos and links grouped roughly into my are
 
 * Deep Learning + Machine Learning
 
-* Audio/Music+ML
+* Audio/Music + ML
 
 --> My full [GitHub](https://github.com/lamtharnhantrakul)
 
@@ -18,7 +18,7 @@ The following are curated projects, videos and links grouped roughly into my are
 ## Physics + Digital Signal Processing
 ### Patent-pending Surrogate Soundboard System
 
-My BS Thesis in Applied Physics from Yale University develops a patent-pending mechanism for transferring acoustic vibrations from a live violin to a remote violin using custom-fabricated transducers and digital inverse filters. This enables a "live" violin to be stream in real-time to a "surrogate" violin located in another concert hall through standard Web Audio protocols. 
+My BS Thesis in Applied Physics from Yale University develops a patent-pending mechanism for transferring acoustic vibrations from a live violin to a remote violin using custom-fabricated transducers and digital inverse filters. This enables a "live" violin to be stream in real-time to a "surrogate" violin located in another concert hall through standard Web Audio protocols.
 
 [Full documentation](http://cargocollective.com/lh-hantrakul/Surrogate-Soundboards-Mark-II) available
 
