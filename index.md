@@ -11,6 +11,8 @@ The following are a curated subset of projects, videos and links grouped roughly
 
 * Audio & Music + ML
 
+Additional links to:
+
 --> [GitHub](https://github.com/lamtharnhantrakul)
 
 --> [Research Portfolio](http://cargocollective.com/lh-hantrakul)
